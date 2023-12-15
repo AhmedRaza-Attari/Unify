@@ -1,0 +1,42 @@
+{
+  "id": "M8M60Lr8E5QgnO7jumu6a",
+  "projectId": "656ebe0598e9df55f0497ba6",
+  "name": "Check Signup Fields",
+  "status": "ACTIVE",
+  "services": [
+    {
+      "type": "VALIDATION",
+      "command": {
+        "type": "1",
+        "attributes": {
+          "serviceName": "Validation",
+          "selectedTriggerId": "QzCENiO5-1DtNSGxSL9cO",
+          "componentId": [
+            "hmfOPLzTJ_XmyhrtP0q32",
+            "Y23mavm92LXgTvBkKJZRo",
+            "VHXrRB2pOOxeTlye6lslM",
+            "wvCIjJDaNYzWMJPlSabY0"
+          ],
+          "component": [
+            { "id": "hmfOPLzTJ_XmyhrtP0q32", "name": "INPUT field Username" },
+            { "id": "Y23mavm92LXgTvBkKJZRo", "name": "INPUT field Email" },
+            { "id": "VHXrRB2pOOxeTlye6lslM", "name": "INPUT field Password" },
+            {
+              "id": "wvCIjJDaNYzWMJPlSabY0",
+              "name": "INPUT field Confirm_Password"
+            }
+          ]
+        },
+        "returns": []
+      }
+    }
+  ],
+  "gitBranchName": "master",
+  "csrf": "0.pbts3590chpuhQLGYBUX20Xc2abP2Ieu",
+  "_id": "Pgo9aW7ax08sSAM_oVEOW",
+  "updatedAt": "12/12/2023",
+  "createdAt": "12/12/2023",
+  "createdBy": "ahmedraza",
+  "updatedBy": "ahmedraza",
+  "old_name": "Check Signup Fields"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "QzCENiO5-1DtNSGxSL9cO",
+  "name": "Navigate to Login Screen",
+  "projectId": "656ebe0598e9df55f0497ba6",
+  "services": [
+    {
+      "type": "NAVIGATION",
+      "command": {
+        "type": "1",
+        "attributes": {
+          "serviceName": "Navigate",
+          "id": "8xU7ofdXNiVO92gnhZykF"
+        }
+      }
+    }
+  ],
+  "gitBranchName": "master",
+  "csrf": "0.pbts3590chpuhQLGYBUX20Xc2abP2Ieu",
+  "_id": "7Svb_wKvGmvWFfo3oO3AP",
+  "updatedAt": "12/12/2023",
+  "createdAt": "12/12/2023",
+  "createdBy": "ahmedraza",
+  "updatedBy": "ahmedraza"
+}

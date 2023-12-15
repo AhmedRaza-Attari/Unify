@@ -1,0 +1,24 @@
+{
+  "id": "UFgij6dp95hTAWOEeCYv3",
+  "name": "Navigate to Home Screen",
+  "projectId": "656ebe0598e9df55f0497ba6",
+  "services": [
+    {
+      "type": "NAVIGATION",
+      "command": {
+        "type": "1",
+        "attributes": {
+          "serviceName": "Navigate",
+          "id": "8rHZbm3iM-rQ9O7PucdHa"
+        }
+      }
+    }
+  ],
+  "gitBranchName": "master",
+  "csrf": "0.7rsvmctmhrqYtIpH7W7TAPKbdhpcraNn",
+  "_id": "oGUYZDbitBpCqDAIv8ej7",
+  "updatedAt": "12/11/2023",
+  "createdAt": "12/11/2023",
+  "createdBy": "ahmedraza",
+  "updatedBy": "ahmedraza"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "XrPFgEJeJbERpvXTOgPDL",
+  "name": "Show Grid Data",
+  "projectId": "656ebe0598e9df55f0497ba6",
+  "services": [
+    {
+      "type": "DATASTORAGE",
+      "command": {
+        "type": "3",
+        "attributes": {
+          "serviceName": "Update value against binding key",
+          "bindingKey": "gridData",
+          "value": [
+            { "Name": "Ahmed" },
+            { "Name": "Raza" },
+            { "Name": "Saqlain" },
+            { "Name": "Faisal" },
+            { "Name": "Bilal" },
+            { "Name": "Jazim" },
+            { "Name": "Asad" },
+            { "Name": "Sohail" }
+          ],
+          "contentType": "array",
+          "totalcolumns": "1"
+        }
+      }
+    }
+  ],
+  "gitBranchName": "master",
+  "csrf": "0.pbts3590chpuhQLGYBUX20Xc2abP2Ieu",
+  "_id": "MQtksK8RZj0jX73j26BUy",
+  "updatedAt": "12/12/2023",
+  "createdAt": "12/12/2023",
+  "createdBy": "ahmedraza",
+  "updatedBy": "ahmedraza",
+  "old_name": "Show Grid Data"
+}

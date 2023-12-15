@@ -1,0 +1,35 @@
+{
+  "id": "Ku_-aBljPMm8i2IElP_Qh",
+  "projectId": "656ebe0598e9df55f0497ba6",
+  "name": "Quotes Trigger",
+  "status": "ACTIVE",
+  "services": [
+    {
+      "type": "NETWORK",
+      "command": {
+        "type": "2",
+        "attributes": {
+          "serviceName": "GET",
+          "headers": {
+            "Content-Type": "application/json",
+            "Accept": "application/json",
+            "channel_key": "001",
+            "CSRF_TOKEN": "4c6e939d-db00-4697-82d8-b69bb05aef5a",
+            "locale": "en-ltr"
+          },
+          "url": "https://dummyjson.com/quotes",
+          "responseStateKey": "quotes_api"
+        },
+        "returns": []
+      }
+    }
+  ],
+  "gitBranchName": "master",
+  "csrf": "0.cpwab7ebasvuB2GGEitIxapRXvpob3JN",
+  "_id": "UlH721ZE1H47loDQj_rXH",
+  "updatedAt": "12/15/2023",
+  "createdAt": "12/15/2023",
+  "createdBy": "ahmedraza",
+  "updatedBy": "ahmedraza",
+  "old_name": "Quotes Trigger"
+}

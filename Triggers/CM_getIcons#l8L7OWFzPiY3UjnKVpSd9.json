@@ -1,0 +1,39 @@
+{
+  "id": "z2OLXOVDKKSHYFtGm-amt",
+  "name": "CM_getIcons",
+  "projectId": "656ebe0598e9df55f0497ba6",
+  "services": [
+    {
+      "type": "DATASTORAGE",
+      "command": {
+        "type": "3",
+        "attributes": {
+          "serviceName": "Update value against binding key",
+          "bindingKey": "getIcons",
+          "value": [
+            { "name": "fir" },
+            { "name": "sec" },
+            { "name": "thi" },
+            { "name": "fou" },
+            { "name": "fif" },
+            { "name": "six" },
+            { "name": "sev" },
+            { "name": "eig" },
+            { "name": "nin" },
+            { "name": "ten" }
+          ],
+          "contentType": "array",
+          "totalcolumns": "1"
+        }
+      }
+    }
+  ],
+  "gitBranchName": "master",
+  "csrf": "0.huawkvgmhco0xxyMZM3J33nHkEbyuVcV",
+  "_id": "l8L7OWFzPiY3UjnKVpSd9",
+  "updatedAt": "12/14/2023",
+  "createdAt": "12/14/2023",
+  "createdBy": "ahmedraza",
+  "updatedBy": "ahmedraza",
+  "old_name": "CM_getIcons"
+}
