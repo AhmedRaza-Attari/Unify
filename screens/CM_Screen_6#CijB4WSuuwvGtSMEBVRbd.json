@@ -1,11 +1,11 @@
 [
   {
-    "id": "QmCCHy3YsA3pLGQj_dFDs",
-    "name": "CM_Screen_3",
+    "id": "CijB4WSuuwvGtSMEBVRbd",
+    "name": "CM_Screen_6",
     "icon": "FaGripHorizontal",
     "path": "0",
     "attributes": {
-      "name": "CM_Screen_3",
+      "name": "CM_Screen_6",
       "layoutProperties": {
         "orientation": "vertical",
         "layout_width": "match_parent",
@@ -21,16 +21,15 @@
         "background": "#004986"
       },
       "componentId": [
-        "mfTHvNCM4bTJMDVec3q5V",
-        "Q1yP-selxkpzaZNwvnDbN",
-        "BiLgUKIBw5F6FDpbM0Ufm",
-        "VvHbBn1UDPlF3BXKeejYT",
-        "Vz7G6IW23HRFtVtqKH3jd",
-        "lC11dkfqPe8nG9dp2NXg3",
-        "ADvQJtRtFmvB4iTZQplOt",
-        "vA2pJO6gFekJDIhfan7xa",
-        "P0bZlC4n9yj2qv_tKE0jZ",
-        "KY32GtnYDk3uVsRD5WZM1"
+        "GWzc580qREwDyoyVJtCPD",
+        "k6D9lszsGnEwO6aHX3HAM",
+        "uVsDP9LYxen0F-Cd4UWPw",
+        "VY4LYobxJQO3TcJ3eRMt_",
+        "kJL2nnoT3F6w27oaBsItU",
+        "pDkKks_aPXaA26aDHMYMh",
+        "V3Ebm9nfouIOvlkWhsV1R",
+        "KPZqQwj4jLLRHBH20sDrG",
+        "4dzW8f_hZavFMI1wp4_XG"
       ]
     },
     "group": "Layout",
@@ -45,7 +44,7 @@
     "component": { "content": "Constraint Layout", "type": "CONSTRAINT" },
     "gridProps": [
       {
-        "id": "mfTHvNCM4bTJMDVec3q5V",
+        "id": "GWzc580qREwDyoyVJtCPD",
         "status": "ACTIVE",
         "_id": "61dec691077814a0f374d9f4",
         "name": "VIEW TOP",
@@ -61,9 +60,9 @@
             "background": "#004986",
             "unify_layout_width": "match_parent",
             "unify_layout_height": "174",
-            "leftToLeftOf": "QmCCHy3YsA3pLGQj_dFDs",
-            "rightToRightOf": "QmCCHy3YsA3pLGQj_dFDs",
-            "topToTopOf": "QmCCHy3YsA3pLGQj_dFDs"
+            "leftToLeftOf": "CijB4WSuuwvGtSMEBVRbd",
+            "rightToRightOf": "CijB4WSuuwvGtSMEBVRbd",
+            "topToTopOf": "CijB4WSuuwvGtSMEBVRbd"
           }
         },
         "icon": "FaTabletAlt",
@@ -80,7 +79,7 @@
         "path": "0-0"
       },
       {
-        "id": "Q1yP-selxkpzaZNwvnDbN",
+        "id": "k6D9lszsGnEwO6aHX3HAM",
         "status": "ACTIVE",
         "_id": "61decd8e077814a0f374d9fc",
         "name": "ICON Close",
@@ -109,8 +108,8 @@
               "__v": 0,
               "uri": "close_view.png"
             },
-            "leftToLeftOf": "mfTHvNCM4bTJMDVec3q5V",
-            "topToTopOf": "mfTHvNCM4bTJMDVec3q5V",
+            "leftToLeftOf": "GWzc580qREwDyoyVJtCPD",
+            "topToTopOf": "GWzc580qREwDyoyVJtCPD",
             "scale": "aspectFit",
             "id": "alC2j5yuA4QLMAdhdT3LN",
             "layout_marginTop": 70,
@@ -134,7 +133,7 @@
         "events": []
       },
       {
-        "id": "BiLgUKIBw5F6FDpbM0Ufm",
+        "id": "uVsDP9LYxen0F-Cd4UWPw",
         "status": "ACTIVE",
         "_id": "61dec5ad077814a0f374d9f3",
         "name": "TEXT PIN_change",
@@ -149,8 +148,8 @@
             "cornerRadius": [0, 0, 0, 0],
             "unify_layout_width": "150",
             "unify_layout_height": "40",
-            "leftToLeftOf": "mfTHvNCM4bTJMDVec3q5V",
-            "topToBottomOf": "Q1yP-selxkpzaZNwvnDbN",
+            "leftToLeftOf": "GWzc580qREwDyoyVJtCPD",
+            "topToBottomOf": "k6D9lszsGnEwO6aHX3HAM",
             "layout_marginLeft": 24,
             "layout_marginRight": 24
           }
@@ -170,7 +169,7 @@
         "edit": true
       },
       {
-        "id": "VvHbBn1UDPlF3BXKeejYT",
+        "id": "VY4LYobxJQO3TcJ3eRMt_",
         "status": "ACTIVE",
         "_id": "61dec5ad077814a0f374d9f3",
         "name": "TEXT Card_ending_1234",
@@ -185,8 +184,8 @@
             "cornerRadius": [0, 0, 0, 0],
             "unify_layout_width": "150",
             "unify_layout_height": "40",
-            "leftToLeftOf": "mfTHvNCM4bTJMDVec3q5V",
-            "topToBottomOf": "BiLgUKIBw5F6FDpbM0Ufm",
+            "leftToLeftOf": "GWzc580qREwDyoyVJtCPD",
+            "topToBottomOf": "uVsDP9LYxen0F-Cd4UWPw",
             "layout_marginLeft": 24,
             "layout_marginRight": 24
           }
@@ -206,7 +205,7 @@
         "edit": true
       },
       {
-        "id": "Vz7G6IW23HRFtVtqKH3jd",
+        "id": "kJL2nnoT3F6w27oaBsItU",
         "status": "ACTIVE",
         "_id": "61dec691077814a0f374d9f4",
         "name": "VIEW  BOTTOM",
@@ -221,10 +220,10 @@
             "background": "#FFFFFF",
             "unify_layout_width": "match_parent",
             "unify_layout_height": "match_parent",
-            "leftToLeftOf": "QmCCHy3YsA3pLGQj_dFDs",
-            "rightToRightOf": "QmCCHy3YsA3pLGQj_dFDs",
-            "topToBottomOf": "mfTHvNCM4bTJMDVec3q5V",
-            "bottomToBottomOf": "QmCCHy3YsA3pLGQj_dFDs"
+            "leftToLeftOf": "CijB4WSuuwvGtSMEBVRbd",
+            "rightToRightOf": "CijB4WSuuwvGtSMEBVRbd",
+            "topToBottomOf": "GWzc580qREwDyoyVJtCPD",
+            "bottomToBottomOf": "CijB4WSuuwvGtSMEBVRbd"
           }
         },
         "icon": "FaTabletAlt",
@@ -242,26 +241,27 @@
         "edit": true
       },
       {
-        "id": "lC11dkfqPe8nG9dp2NXg3",
+        "id": "pDkKks_aPXaA26aDHMYMh",
         "status": "ACTIVE",
         "_id": "61dec5ad077814a0f374d9f3",
-        "name": "TEXT Enter_your_existing_pin",
+        "name": "TEXT Please_enter_new_pin",
         "attributes": {
-          "name": "TEXT Enter_your_existing_pin",
+          "name": "TEXT Please_enter_new_pin",
           "layoutProperties": {
             "textSize": 18,
             "layout_width": "wrap_content",
             "layout_height": "wrap_content",
             "textColor": "#000000",
-            "text": "Enter your existing PIN",
+            "text": "Please enter a new PIN",
             "cornerRadius": [0, 0, 0, 0],
             "unify_layout_width": "250",
             "unify_layout_height": "40",
-            "leftToLeftOf": "Vz7G6IW23HRFtVtqKH3jd",
-            "topToTopOf": "Vz7G6IW23HRFtVtqKH3jd",
+            "leftToLeftOf": "kJL2nnoT3F6w27oaBsItU",
+            "topToTopOf": "kJL2nnoT3F6w27oaBsItU",
             "layout_marginLeft": 24,
             "layout_marginRight": 24,
-            "layout_marginTop": 32
+            "layout_marginTop": 32,
+            "textAlignment": "left"
           }
         },
         "icon": "FaTextWidth",
@@ -279,7 +279,7 @@
         "edit": true
       },
       {
-        "id": "ADvQJtRtFmvB4iTZQplOt",
+        "id": "V3Ebm9nfouIOvlkWhsV1R",
         "status": "ACTIVE",
         "_id": "6536905a3008575246efbfe2",
         "name": "INPUT Pin_code",
@@ -292,21 +292,22 @@
             "textStyle": "bold",
             "textAlignment": "left",
             "background": "white",
-            "layout_height": "60",
+            "layout_height": "wrap_content",
             "layout_width": "match_parent",
             "unify_layout_width": "match_parent",
             "unify_layout_height": "40",
-            "leftToLeftOf": "QmCCHy3YsA3pLGQj_dFDs",
-            "topToBottomOf": "lC11dkfqPe8nG9dp2NXg3",
+            "leftToLeftOf": "CijB4WSuuwvGtSMEBVRbd",
+            "topToBottomOf": "pDkKks_aPXaA26aDHMYMh",
             "layout_marginLeft": 24,
             "layout_marginRight": 24,
             "layout_marginTop": 24,
-            "rightToRightOf": "QmCCHy3YsA3pLGQj_dFDs",
+            "rightToRightOf": "CijB4WSuuwvGtSMEBVRbd",
             "secureText": true,
             "placeHolderText": "PIN CODE",
             "keyboardType": null,
             "activeLineColor": "#004986",
-            "lineColor": "#E7F0F7"
+            "lineColor": "#E7F0F7",
+            "numberOfLines": 16
           }
         },
         "icon": "CiText",
@@ -327,81 +328,7 @@
         "edit": true
       },
       {
-        "id": "vA2pJO6gFekJDIhfan7xa",
-        "status": "ACTIVE",
-        "_id": "61dec5ad077814a0f374d9f3",
-        "name": "TEXT Forgot_you_pin",
-        "attributes": {
-          "name": "TEXT Forgot_you_pin",
-          "layoutProperties": {
-            "textSize": 14,
-            "layout_width": "wrap_content",
-            "layout_height": "wrap_content",
-            "textColor": "#838383",
-            "text": "Forgot you pin",
-            "cornerRadius": [0, 0, 0, 0],
-            "unify_layout_width": "130",
-            "unify_layout_height": "40",
-            "leftToLeftOf": "QmCCHy3YsA3pLGQj_dFDs",
-            "topToBottomOf": "ADvQJtRtFmvB4iTZQplOt",
-            "layout_marginLeft": 24,
-            "layout_marginTop": 24,
-            "textAlignment": "left",
-            "layout_marginRight": 0
-          }
-        },
-        "icon": "FaTextWidth",
-        "group": "Form",
-        "type": "sidebarItem",
-        "updatedAt": "23-Aug-2021",
-        "createdAt": "23-Aug-2021",
-        "order": 20,
-        "version": "1.0.0",
-        "isLatest": true,
-        "projectType": "mobile",
-        "component": { "content": "Text view", "type": "TEXTVIEW" },
-        "events": [],
-        "path": "0-7",
-        "edit": true
-      },
-      {
-        "id": "P0bZlC4n9yj2qv_tKE0jZ",
-        "status": "ACTIVE",
-        "_id": "61dec5ad077814a0f374d9f3",
-        "name": "TEXT Generate_new_pin",
-        "attributes": {
-          "name": "TEXT Generate_new_pin",
-          "layoutProperties": {
-            "textSize": 14,
-            "layout_width": "wrap_content",
-            "layout_height": "wrap_content",
-            "textColor": "#004986",
-            "text": "Generate new PIN",
-            "cornerRadius": [0, 0, 0, 0],
-            "unify_layout_width": "140",
-            "unify_layout_height": "40",
-            "leftToRightOf": "vA2pJO6gFekJDIhfan7xa",
-            "topToBottomOf": "ADvQJtRtFmvB4iTZQplOt",
-            "layout_marginTop": 24,
-            "layout_marginLeft": 8
-          }
-        },
-        "icon": "FaTextWidth",
-        "group": "Form",
-        "type": "sidebarItem",
-        "updatedAt": "23-Aug-2021",
-        "createdAt": "23-Aug-2021",
-        "order": 20,
-        "version": "1.0.0",
-        "isLatest": true,
-        "projectType": "mobile",
-        "component": { "content": "Text view", "type": "TEXTVIEW" },
-        "events": [],
-        "path": "0-8",
-        "edit": true
-      },
-      {
-        "id": "KY32GtnYDk3uVsRD5WZM1",
+        "id": "KPZqQwj4jLLRHBH20sDrG",
         "status": "ACTIVE",
         "_id": "61dec753077814a0f374d9f6",
         "name": "BUTTON Proceed",
@@ -420,9 +347,9 @@
             "clickable": true,
             "unify_layout_width": "match_parent",
             "unify_layout_height": "40",
-            "leftToLeftOf": "Vz7G6IW23HRFtVtqKH3jd",
-            "rightToRightOf": "Vz7G6IW23HRFtVtqKH3jd",
-            "bottomToBottomOf": "Vz7G6IW23HRFtVtqKH3jd",
+            "leftToLeftOf": "kJL2nnoT3F6w27oaBsItU",
+            "rightToRightOf": "kJL2nnoT3F6w27oaBsItU",
+            "bottomToBottomOf": "kJL2nnoT3F6w27oaBsItU",
             "layout_marginLeft": 24,
             "layout_marginRight": 24,
             "layout_marginBottom": 34
@@ -441,18 +368,73 @@
         "events": [],
         "path": "0-9",
         "edit": true
+      },
+      {
+        "id": "4dzW8f_hZavFMI1wp4_XG",
+        "status": "ACTIVE",
+        "_id": "6536905a3008575246efbfe2",
+        "name": "INPUT Confirm_pin_code",
+        "attributes": {
+          "name": "INPUT Confirm_pin_code",
+          "validation": [],
+          "layoutProperties": {
+            "textSize": 18,
+            "textColor": "#000000",
+            "textStyle": "bold",
+            "textAlignment": "left",
+            "background": "white",
+            "text": "",
+            "layout_height": "wrap_content",
+            "layout_width": "match_parent",
+            "unify_layout_width": "match_parent",
+            "unify_layout_height": "60",
+            "placeHolderText": "Confirm PIN code",
+            "secureText": true,
+            "leftToLeftOf": "kJL2nnoT3F6w27oaBsItU",
+            "rightToRightOf": "kJL2nnoT3F6w27oaBsItU",
+            "topToBottomOf": "V3Ebm9nfouIOvlkWhsV1R",
+            "layout_marginLeft": 24,
+            "layout_marginRight": 24,
+            "layout_marginTop": 24,
+            "lineColor": "#E7F0F7",
+            "activeLineColor": "#004986",
+            "placeHolderTextColor": "#838383",
+            "numberOfLines": 16
+          }
+        },
+        "icon": "CiText",
+        "group": "Form",
+        "type": "sidebarItem",
+        "updatedAt": "23-Aug-2021",
+        "createdAt": "23-Aug-2021",
+        "order": 20,
+        "version": "1.0.0",
+        "isLatest": true,
+        "projectType": "mobile",
+        "component": {
+          "content": "Material Textfeild",
+          "type": "MATERIALTEXTFEILDFILLED"
+        },
+        "events": [],
+        "path": "0-8",
+        "edit": true
       }
     ],
     "subType": "screen",
     "edit": true,
+    "projectId": "656ebe0598e9df55f0497ba6",
+    "gitBranchName": "master",
+    "createdBy": "ahmedraza",
+    "updatedTimestamp": "0000-00-00T00:00:00+00:00",
+    "updatedBy": "ahmedraza",
     "layout": [
       {
-        "id": "QmCCHy3YsA3pLGQj_dFDs",
-        "name": "CM_Screen_3",
+        "id": "CijB4WSuuwvGtSMEBVRbd",
+        "name": "CM_Screen_6",
         "icon": "FaGripHorizontal",
         "path": "0",
         "attributes": {
-          "name": "CM_Screen_3",
+          "name": "CM_Screen_6",
           "layoutProperties": {
             "orientation": "vertical",
             "layout_width": "match_parent",
@@ -472,8 +454,8 @@
         "group": "Layout",
         "type": "CONSTRAINT",
         "status": "ACTIVE",
-        "updatedAt": "2021-09-23T15:17:45.489Z",
-        "createdAt": "2021-08-24T06:05:50.559Z",
+        "updatedAt": "12/18/2023",
+        "createdAt": "12/18/2023",
         "events": [],
         "order": 1,
         "version": "1.0.0",
@@ -481,7 +463,7 @@
         "component": { "content": "Constraint Layout", "type": "CONSTRAINT" },
         "gridProps": [
           {
-            "id": "mfTHvNCM4bTJMDVec3q5V",
+            "id": "GWzc580qREwDyoyVJtCPD",
             "status": "ACTIVE",
             "_id": "61dec691077814a0f374d9f4",
             "name": "VIEW TOP",
@@ -497,9 +479,9 @@
                 "background": "#004986",
                 "unify_layout_width": "match_parent",
                 "unify_layout_height": "174",
-                "leftToLeftOf": "QmCCHy3YsA3pLGQj_dFDs",
-                "rightToRightOf": "QmCCHy3YsA3pLGQj_dFDs",
-                "topToTopOf": "QmCCHy3YsA3pLGQj_dFDs"
+                "leftToLeftOf": "CijB4WSuuwvGtSMEBVRbd",
+                "rightToRightOf": "CijB4WSuuwvGtSMEBVRbd",
+                "topToTopOf": "CijB4WSuuwvGtSMEBVRbd"
               }
             },
             "icon": "FaTabletAlt",
@@ -516,7 +498,7 @@
             "path": "0-0"
           },
           {
-            "id": "Q1yP-selxkpzaZNwvnDbN",
+            "id": "k6D9lszsGnEwO6aHX3HAM",
             "status": "ACTIVE",
             "_id": "61decd8e077814a0f374d9fc",
             "name": "ICON Close",
@@ -545,8 +527,8 @@
                   "__v": 0,
                   "uri": "close_view.png"
                 },
-                "leftToLeftOf": "mfTHvNCM4bTJMDVec3q5V",
-                "topToTopOf": "mfTHvNCM4bTJMDVec3q5V",
+                "leftToLeftOf": "GWzc580qREwDyoyVJtCPD",
+                "topToTopOf": "GWzc580qREwDyoyVJtCPD",
                 "scale": "aspectFit",
                 "id": "alC2j5yuA4QLMAdhdT3LN",
                 "layout_marginTop": 70,
@@ -570,7 +552,7 @@
             "events": []
           },
           {
-            "id": "BiLgUKIBw5F6FDpbM0Ufm",
+            "id": "uVsDP9LYxen0F-Cd4UWPw",
             "status": "ACTIVE",
             "_id": "61dec5ad077814a0f374d9f3",
             "name": "TEXT PIN_change",
@@ -585,8 +567,8 @@
                 "cornerRadius": [0, 0, 0, 0],
                 "unify_layout_width": "150",
                 "unify_layout_height": "40",
-                "leftToLeftOf": "mfTHvNCM4bTJMDVec3q5V",
-                "topToBottomOf": "Q1yP-selxkpzaZNwvnDbN",
+                "leftToLeftOf": "GWzc580qREwDyoyVJtCPD",
+                "topToBottomOf": "k6D9lszsGnEwO6aHX3HAM",
                 "layout_marginLeft": 24,
                 "layout_marginRight": 24
               }
@@ -606,7 +588,7 @@
             "edit": true
           },
           {
-            "id": "VvHbBn1UDPlF3BXKeejYT",
+            "id": "VY4LYobxJQO3TcJ3eRMt_",
             "status": "ACTIVE",
             "_id": "61dec5ad077814a0f374d9f3",
             "name": "TEXT Card_ending_1234",
@@ -621,8 +603,8 @@
                 "cornerRadius": [0, 0, 0, 0],
                 "unify_layout_width": "150",
                 "unify_layout_height": "40",
-                "leftToLeftOf": "mfTHvNCM4bTJMDVec3q5V",
-                "topToBottomOf": "BiLgUKIBw5F6FDpbM0Ufm",
+                "leftToLeftOf": "GWzc580qREwDyoyVJtCPD",
+                "topToBottomOf": "uVsDP9LYxen0F-Cd4UWPw",
                 "layout_marginLeft": 24,
                 "layout_marginRight": 24
               }
@@ -642,7 +624,7 @@
             "edit": true
           },
           {
-            "id": "Vz7G6IW23HRFtVtqKH3jd",
+            "id": "kJL2nnoT3F6w27oaBsItU",
             "status": "ACTIVE",
             "_id": "61dec691077814a0f374d9f4",
             "name": "VIEW  BOTTOM",
@@ -657,10 +639,10 @@
                 "background": "#FFFFFF",
                 "unify_layout_width": "match_parent",
                 "unify_layout_height": "match_parent",
-                "leftToLeftOf": "QmCCHy3YsA3pLGQj_dFDs",
-                "rightToRightOf": "QmCCHy3YsA3pLGQj_dFDs",
-                "topToBottomOf": "mfTHvNCM4bTJMDVec3q5V",
-                "bottomToBottomOf": "QmCCHy3YsA3pLGQj_dFDs"
+                "leftToLeftOf": "CijB4WSuuwvGtSMEBVRbd",
+                "rightToRightOf": "CijB4WSuuwvGtSMEBVRbd",
+                "topToBottomOf": "GWzc580qREwDyoyVJtCPD",
+                "bottomToBottomOf": "CijB4WSuuwvGtSMEBVRbd"
               }
             },
             "icon": "FaTabletAlt",
@@ -678,26 +660,27 @@
             "edit": true
           },
           {
-            "id": "lC11dkfqPe8nG9dp2NXg3",
+            "id": "pDkKks_aPXaA26aDHMYMh",
             "status": "ACTIVE",
             "_id": "61dec5ad077814a0f374d9f3",
-            "name": "TEXT Enter_your_existing_pin",
+            "name": "TEXT Please_enter_new_pin",
             "attributes": {
-              "name": "TEXT Enter_your_existing_pin",
+              "name": "TEXT Please_enter_new_pin",
               "layoutProperties": {
                 "textSize": 18,
                 "layout_width": "wrap_content",
                 "layout_height": "wrap_content",
                 "textColor": "#000000",
-                "text": "Enter your existing PIN",
+                "text": "Please enter a new PIN",
                 "cornerRadius": [0, 0, 0, 0],
                 "unify_layout_width": "250",
                 "unify_layout_height": "40",
-                "leftToLeftOf": "Vz7G6IW23HRFtVtqKH3jd",
-                "topToTopOf": "Vz7G6IW23HRFtVtqKH3jd",
+                "leftToLeftOf": "kJL2nnoT3F6w27oaBsItU",
+                "topToTopOf": "kJL2nnoT3F6w27oaBsItU",
                 "layout_marginLeft": 24,
                 "layout_marginRight": 24,
-                "layout_marginTop": 32
+                "layout_marginTop": 32,
+                "textAlignment": "left"
               }
             },
             "icon": "FaTextWidth",
@@ -715,7 +698,7 @@
             "edit": true
           },
           {
-            "id": "ADvQJtRtFmvB4iTZQplOt",
+            "id": "V3Ebm9nfouIOvlkWhsV1R",
             "status": "ACTIVE",
             "_id": "6536905a3008575246efbfe2",
             "name": "INPUT Pin_code",
@@ -728,21 +711,22 @@
                 "textStyle": "bold",
                 "textAlignment": "left",
                 "background": "white",
-                "layout_height": "60",
+                "layout_height": "wrap_content",
                 "layout_width": "match_parent",
                 "unify_layout_width": "match_parent",
                 "unify_layout_height": "40",
-                "leftToLeftOf": "QmCCHy3YsA3pLGQj_dFDs",
-                "topToBottomOf": "lC11dkfqPe8nG9dp2NXg3",
+                "leftToLeftOf": "CijB4WSuuwvGtSMEBVRbd",
+                "topToBottomOf": "pDkKks_aPXaA26aDHMYMh",
                 "layout_marginLeft": 24,
                 "layout_marginRight": 24,
                 "layout_marginTop": 24,
-                "rightToRightOf": "QmCCHy3YsA3pLGQj_dFDs",
+                "rightToRightOf": "CijB4WSuuwvGtSMEBVRbd",
                 "secureText": true,
                 "placeHolderText": "PIN CODE",
                 "keyboardType": null,
                 "activeLineColor": "#004986",
-                "lineColor": "#E7F0F7"
+                "lineColor": "#E7F0F7",
+                "numberOfLines": 16
               }
             },
             "icon": "CiText",
@@ -763,81 +747,7 @@
             "edit": true
           },
           {
-            "id": "vA2pJO6gFekJDIhfan7xa",
-            "status": "ACTIVE",
-            "_id": "61dec5ad077814a0f374d9f3",
-            "name": "TEXT Forgot_you_pin",
-            "attributes": {
-              "name": "TEXT Forgot_you_pin",
-              "layoutProperties": {
-                "textSize": 14,
-                "layout_width": "wrap_content",
-                "layout_height": "wrap_content",
-                "textColor": "#838383",
-                "text": "Forgot you pin",
-                "cornerRadius": [0, 0, 0, 0],
-                "unify_layout_width": "130",
-                "unify_layout_height": "40",
-                "leftToLeftOf": "QmCCHy3YsA3pLGQj_dFDs",
-                "topToBottomOf": "ADvQJtRtFmvB4iTZQplOt",
-                "layout_marginLeft": 24,
-                "layout_marginTop": 24,
-                "textAlignment": "left",
-                "layout_marginRight": 0
-              }
-            },
-            "icon": "FaTextWidth",
-            "group": "Form",
-            "type": "sidebarItem",
-            "updatedAt": "23-Aug-2021",
-            "createdAt": "23-Aug-2021",
-            "order": 20,
-            "version": "1.0.0",
-            "isLatest": true,
-            "projectType": "mobile",
-            "component": { "content": "Text view", "type": "TEXTVIEW" },
-            "events": [],
-            "path": "0-7",
-            "edit": true
-          },
-          {
-            "id": "P0bZlC4n9yj2qv_tKE0jZ",
-            "status": "ACTIVE",
-            "_id": "61dec5ad077814a0f374d9f3",
-            "name": "TEXT Generate_new_pin",
-            "attributes": {
-              "name": "TEXT Generate_new_pin",
-              "layoutProperties": {
-                "textSize": 14,
-                "layout_width": "wrap_content",
-                "layout_height": "wrap_content",
-                "textColor": "#004986",
-                "text": "Generate new PIN",
-                "cornerRadius": [0, 0, 0, 0],
-                "unify_layout_width": "140",
-                "unify_layout_height": "40",
-                "leftToRightOf": "vA2pJO6gFekJDIhfan7xa",
-                "topToBottomOf": "ADvQJtRtFmvB4iTZQplOt",
-                "layout_marginTop": 24,
-                "layout_marginLeft": 8
-              }
-            },
-            "icon": "FaTextWidth",
-            "group": "Form",
-            "type": "sidebarItem",
-            "updatedAt": "23-Aug-2021",
-            "createdAt": "23-Aug-2021",
-            "order": 20,
-            "version": "1.0.0",
-            "isLatest": true,
-            "projectType": "mobile",
-            "component": { "content": "Text view", "type": "TEXTVIEW" },
-            "events": [],
-            "path": "0-8",
-            "edit": true
-          },
-          {
-            "id": "KY32GtnYDk3uVsRD5WZM1",
+            "id": "KPZqQwj4jLLRHBH20sDrG",
             "status": "ACTIVE",
             "_id": "61dec753077814a0f374d9f6",
             "name": "BUTTON Proceed",
@@ -856,9 +766,9 @@
                 "clickable": true,
                 "unify_layout_width": "match_parent",
                 "unify_layout_height": "40",
-                "leftToLeftOf": "Vz7G6IW23HRFtVtqKH3jd",
-                "rightToRightOf": "Vz7G6IW23HRFtVtqKH3jd",
-                "bottomToBottomOf": "Vz7G6IW23HRFtVtqKH3jd",
+                "leftToLeftOf": "kJL2nnoT3F6w27oaBsItU",
+                "rightToRightOf": "kJL2nnoT3F6w27oaBsItU",
+                "bottomToBottomOf": "kJL2nnoT3F6w27oaBsItU",
                 "layout_marginLeft": 24,
                 "layout_marginRight": 24,
                 "layout_marginBottom": 34
@@ -877,20 +787,72 @@
             "events": [],
             "path": "0-9",
             "edit": true
+          },
+          {
+            "id": "4dzW8f_hZavFMI1wp4_XG",
+            "status": "ACTIVE",
+            "_id": "6536905a3008575246efbfe2",
+            "name": "INPUT Confirm_pin_code",
+            "attributes": {
+              "name": "INPUT Confirm_pin_code",
+              "validation": [],
+              "layoutProperties": {
+                "textSize": 18,
+                "textColor": "#000000",
+                "textStyle": "bold",
+                "textAlignment": "left",
+                "background": "white",
+                "text": "",
+                "layout_height": "wrap_content",
+                "layout_width": "match_parent",
+                "unify_layout_width": "match_parent",
+                "unify_layout_height": "60",
+                "placeHolderText": "Confirm PIN code",
+                "secureText": true,
+                "leftToLeftOf": "kJL2nnoT3F6w27oaBsItU",
+                "rightToRightOf": "kJL2nnoT3F6w27oaBsItU",
+                "topToBottomOf": "V3Ebm9nfouIOvlkWhsV1R",
+                "layout_marginLeft": 24,
+                "layout_marginRight": 24,
+                "layout_marginTop": 24,
+                "lineColor": "#E7F0F7",
+                "activeLineColor": "#004986",
+                "placeHolderTextColor": "#838383",
+                "numberOfLines": 16
+              }
+            },
+            "icon": "CiText",
+            "group": "Form",
+            "type": "sidebarItem",
+            "updatedAt": "23-Aug-2021",
+            "createdAt": "23-Aug-2021",
+            "order": 20,
+            "version": "1.0.0",
+            "isLatest": true,
+            "projectType": "mobile",
+            "component": {
+              "content": "Material Textfeild",
+              "type": "MATERIALTEXTFEILDFILLED"
+            },
+            "events": [],
+            "path": "0-8",
+            "edit": true
           }
         ],
         "subType": "screen",
-        "edit": true
+        "edit": true,
+        "projectId": "656ebe0598e9df55f0497ba6",
+        "gitBranchName": "master",
+        "_id": "CijB4WSuuwvGtSMEBVRbd",
+        "createdBy": "ahmedraza",
+        "updatedTimestamp": "0000-00-00T00:00:00+00:00",
+        "updatedBy": "ahmedraza"
       }
     ],
-    "projectId": "656ebe0598e9df55f0497ba6",
-    "gitBranchName": "master",
-    "_id": "QmCCHy3YsA3pLGQj_dFDs",
-    "createdBy": "ahmedraza",
-    "updatedTimestamp": "0000-00-00T00:00:00+00:00"
+    "_id": "CijB4WSuuwvGtSMEBVRbd"
   },
   {
-    "id": "mfTHvNCM4bTJMDVec3q5V",
+    "id": "GWzc580qREwDyoyVJtCPD",
     "status": "ACTIVE",
     "name": "VIEW TOP",
     "attributes": {
@@ -905,9 +867,9 @@
         "background": "#004986",
         "unify_layout_width": "match_parent",
         "unify_layout_height": "174",
-        "leftToLeftOf": "QmCCHy3YsA3pLGQj_dFDs",
-        "rightToRightOf": "QmCCHy3YsA3pLGQj_dFDs",
-        "topToTopOf": "QmCCHy3YsA3pLGQj_dFDs"
+        "leftToLeftOf": "CijB4WSuuwvGtSMEBVRbd",
+        "rightToRightOf": "CijB4WSuuwvGtSMEBVRbd",
+        "topToTopOf": "CijB4WSuuwvGtSMEBVRbd"
       }
     },
     "icon": "FaTabletAlt",
@@ -928,7 +890,7 @@
     "updatedTimestamp": "0000-00-00T00:00:00+00:00"
   },
   {
-    "id": "Q1yP-selxkpzaZNwvnDbN",
+    "id": "k6D9lszsGnEwO6aHX3HAM",
     "status": "ACTIVE",
     "name": "ICON Close",
     "attributes": {
@@ -956,8 +918,8 @@
           "__v": 0,
           "uri": "close_view.png"
         },
-        "leftToLeftOf": "mfTHvNCM4bTJMDVec3q5V",
-        "topToTopOf": "mfTHvNCM4bTJMDVec3q5V",
+        "leftToLeftOf": "GWzc580qREwDyoyVJtCPD",
+        "topToTopOf": "GWzc580qREwDyoyVJtCPD",
         "scale": "aspectFit",
         "id": "alC2j5yuA4QLMAdhdT3LN",
         "layout_marginTop": 70,
@@ -985,7 +947,7 @@
     "updatedTimestamp": "0000-00-00T00:00:00+00:00"
   },
   {
-    "id": "BiLgUKIBw5F6FDpbM0Ufm",
+    "id": "uVsDP9LYxen0F-Cd4UWPw",
     "status": "ACTIVE",
     "name": "TEXT PIN_change",
     "attributes": {
@@ -999,8 +961,8 @@
         "cornerRadius": [0, 0, 0, 0],
         "unify_layout_width": "150",
         "unify_layout_height": "40",
-        "leftToLeftOf": "mfTHvNCM4bTJMDVec3q5V",
-        "topToBottomOf": "Q1yP-selxkpzaZNwvnDbN",
+        "leftToLeftOf": "GWzc580qREwDyoyVJtCPD",
+        "topToBottomOf": "k6D9lszsGnEwO6aHX3HAM",
         "layout_marginLeft": 24,
         "layout_marginRight": 24
       }
@@ -1024,7 +986,7 @@
     "updatedTimestamp": "0000-00-00T00:00:00+00:00"
   },
   {
-    "id": "VvHbBn1UDPlF3BXKeejYT",
+    "id": "VY4LYobxJQO3TcJ3eRMt_",
     "status": "ACTIVE",
     "name": "TEXT Card_ending_1234",
     "attributes": {
@@ -1038,8 +1000,8 @@
         "cornerRadius": [0, 0, 0, 0],
         "unify_layout_width": "150",
         "unify_layout_height": "40",
-        "leftToLeftOf": "mfTHvNCM4bTJMDVec3q5V",
-        "topToBottomOf": "BiLgUKIBw5F6FDpbM0Ufm",
+        "leftToLeftOf": "GWzc580qREwDyoyVJtCPD",
+        "topToBottomOf": "uVsDP9LYxen0F-Cd4UWPw",
         "layout_marginLeft": 24,
         "layout_marginRight": 24
       }
@@ -1063,7 +1025,7 @@
     "updatedTimestamp": "0000-00-00T00:00:00+00:00"
   },
   {
-    "id": "Vz7G6IW23HRFtVtqKH3jd",
+    "id": "kJL2nnoT3F6w27oaBsItU",
     "status": "ACTIVE",
     "name": "VIEW  BOTTOM",
     "attributes": {
@@ -1077,10 +1039,10 @@
         "background": "#FFFFFF",
         "unify_layout_width": "match_parent",
         "unify_layout_height": "match_parent",
-        "leftToLeftOf": "QmCCHy3YsA3pLGQj_dFDs",
-        "rightToRightOf": "QmCCHy3YsA3pLGQj_dFDs",
-        "topToBottomOf": "mfTHvNCM4bTJMDVec3q5V",
-        "bottomToBottomOf": "QmCCHy3YsA3pLGQj_dFDs"
+        "leftToLeftOf": "CijB4WSuuwvGtSMEBVRbd",
+        "rightToRightOf": "CijB4WSuuwvGtSMEBVRbd",
+        "topToBottomOf": "GWzc580qREwDyoyVJtCPD",
+        "bottomToBottomOf": "CijB4WSuuwvGtSMEBVRbd"
       }
     },
     "icon": "FaTabletAlt",
@@ -1102,25 +1064,26 @@
     "updatedTimestamp": "0000-00-00T00:00:00+00:00"
   },
   {
-    "id": "lC11dkfqPe8nG9dp2NXg3",
+    "id": "pDkKks_aPXaA26aDHMYMh",
     "status": "ACTIVE",
-    "name": "TEXT Enter_your_existing_pin",
+    "name": "TEXT Please_enter_new_pin",
     "attributes": {
-      "name": "TEXT Enter_your_existing_pin",
+      "name": "TEXT Please_enter_new_pin",
       "layoutProperties": {
         "textSize": 18,
         "layout_width": "wrap_content",
         "layout_height": "wrap_content",
         "textColor": "#000000",
-        "text": "Enter your existing PIN",
+        "text": "Please enter a new PIN",
         "cornerRadius": [0, 0, 0, 0],
         "unify_layout_width": "250",
         "unify_layout_height": "40",
-        "leftToLeftOf": "Vz7G6IW23HRFtVtqKH3jd",
-        "topToTopOf": "Vz7G6IW23HRFtVtqKH3jd",
+        "leftToLeftOf": "kJL2nnoT3F6w27oaBsItU",
+        "topToTopOf": "kJL2nnoT3F6w27oaBsItU",
         "layout_marginLeft": 24,
         "layout_marginRight": 24,
-        "layout_marginTop": 32
+        "layout_marginTop": 32,
+        "textAlignment": "left"
       }
     },
     "icon": "FaTextWidth",
@@ -1142,7 +1105,7 @@
     "updatedTimestamp": "0000-00-00T00:00:00+00:00"
   },
   {
-    "id": "ADvQJtRtFmvB4iTZQplOt",
+    "id": "V3Ebm9nfouIOvlkWhsV1R",
     "status": "ACTIVE",
     "name": "INPUT Pin_code",
     "attributes": {
@@ -1154,21 +1117,22 @@
         "textStyle": "bold",
         "textAlignment": "left",
         "background": "white",
-        "layout_height": "60",
+        "layout_height": "wrap_content",
         "layout_width": "match_parent",
         "unify_layout_width": "match_parent",
         "unify_layout_height": "40",
-        "leftToLeftOf": "QmCCHy3YsA3pLGQj_dFDs",
-        "topToBottomOf": "lC11dkfqPe8nG9dp2NXg3",
+        "leftToLeftOf": "CijB4WSuuwvGtSMEBVRbd",
+        "topToBottomOf": "pDkKks_aPXaA26aDHMYMh",
         "layout_marginLeft": 24,
         "layout_marginRight": 24,
         "layout_marginTop": 24,
-        "rightToRightOf": "QmCCHy3YsA3pLGQj_dFDs",
+        "rightToRightOf": "CijB4WSuuwvGtSMEBVRbd",
         "secureText": true,
         "placeHolderText": "PIN CODE",
         "keyboardType": null,
         "activeLineColor": "#004986",
-        "lineColor": "#E7F0F7"
+        "lineColor": "#E7F0F7",
+        "numberOfLines": 16
       }
     },
     "icon": "CiText",
@@ -1193,87 +1157,7 @@
     "updatedTimestamp": "0000-00-00T00:00:00+00:00"
   },
   {
-    "id": "vA2pJO6gFekJDIhfan7xa",
-    "status": "ACTIVE",
-    "name": "TEXT Forgot_you_pin",
-    "attributes": {
-      "name": "TEXT Forgot_you_pin",
-      "layoutProperties": {
-        "textSize": 14,
-        "layout_width": "wrap_content",
-        "layout_height": "wrap_content",
-        "textColor": "#838383",
-        "text": "Forgot you pin",
-        "cornerRadius": [0, 0, 0, 0],
-        "unify_layout_width": "130",
-        "unify_layout_height": "40",
-        "leftToLeftOf": "QmCCHy3YsA3pLGQj_dFDs",
-        "topToBottomOf": "ADvQJtRtFmvB4iTZQplOt",
-        "layout_marginLeft": 24,
-        "layout_marginTop": 24,
-        "textAlignment": "left",
-        "layout_marginRight": 0
-      }
-    },
-    "icon": "FaTextWidth",
-    "group": "Form",
-    "type": "TEXTVIEW",
-    "updatedAt": "23-Aug-2021",
-    "createdAt": "23-Aug-2021",
-    "order": 20,
-    "version": "1.0.0",
-    "isLatest": true,
-    "projectType": "mobile",
-    "component": { "content": "Text view", "type": "TEXTVIEW" },
-    "events": [],
-    "path": "0-7",
-    "edit": true,
-    "subType": "component",
-    "projectId": "656ebe0598e9df55f0497ba6",
-    "gitBranchName": "master",
-    "updatedTimestamp": "0000-00-00T00:00:00+00:00"
-  },
-  {
-    "id": "P0bZlC4n9yj2qv_tKE0jZ",
-    "status": "ACTIVE",
-    "name": "TEXT Generate_new_pin",
-    "attributes": {
-      "name": "TEXT Generate_new_pin",
-      "layoutProperties": {
-        "textSize": 14,
-        "layout_width": "wrap_content",
-        "layout_height": "wrap_content",
-        "textColor": "#004986",
-        "text": "Generate new PIN",
-        "cornerRadius": [0, 0, 0, 0],
-        "unify_layout_width": "140",
-        "unify_layout_height": "40",
-        "leftToRightOf": "vA2pJO6gFekJDIhfan7xa",
-        "topToBottomOf": "ADvQJtRtFmvB4iTZQplOt",
-        "layout_marginTop": 24,
-        "layout_marginLeft": 8
-      }
-    },
-    "icon": "FaTextWidth",
-    "group": "Form",
-    "type": "TEXTVIEW",
-    "updatedAt": "23-Aug-2021",
-    "createdAt": "23-Aug-2021",
-    "order": 20,
-    "version": "1.0.0",
-    "isLatest": true,
-    "projectType": "mobile",
-    "component": { "content": "Text view", "type": "TEXTVIEW" },
-    "events": [],
-    "path": "0-8",
-    "edit": true,
-    "subType": "component",
-    "projectId": "656ebe0598e9df55f0497ba6",
-    "gitBranchName": "master",
-    "updatedTimestamp": "0000-00-00T00:00:00+00:00"
-  },
-  {
-    "id": "KY32GtnYDk3uVsRD5WZM1",
+    "id": "KPZqQwj4jLLRHBH20sDrG",
     "status": "ACTIVE",
     "name": "BUTTON Proceed",
     "attributes": {
@@ -1291,9 +1175,9 @@
         "clickable": true,
         "unify_layout_width": "match_parent",
         "unify_layout_height": "40",
-        "leftToLeftOf": "Vz7G6IW23HRFtVtqKH3jd",
-        "rightToRightOf": "Vz7G6IW23HRFtVtqKH3jd",
-        "bottomToBottomOf": "Vz7G6IW23HRFtVtqKH3jd",
+        "leftToLeftOf": "kJL2nnoT3F6w27oaBsItU",
+        "rightToRightOf": "kJL2nnoT3F6w27oaBsItU",
+        "bottomToBottomOf": "kJL2nnoT3F6w27oaBsItU",
         "layout_marginLeft": 24,
         "layout_marginRight": 24,
         "layout_marginBottom": 34
@@ -1311,6 +1195,59 @@
     "component": { "content": "Button", "type": "BUTTON" },
     "events": [],
     "path": "0-9",
+    "edit": true,
+    "subType": "component",
+    "projectId": "656ebe0598e9df55f0497ba6",
+    "gitBranchName": "master",
+    "updatedTimestamp": "0000-00-00T00:00:00+00:00"
+  },
+  {
+    "id": "4dzW8f_hZavFMI1wp4_XG",
+    "status": "ACTIVE",
+    "name": "INPUT Confirm_pin_code",
+    "attributes": {
+      "name": "INPUT Confirm_pin_code",
+      "validation": [],
+      "layoutProperties": {
+        "textSize": 18,
+        "textColor": "#000000",
+        "textStyle": "bold",
+        "textAlignment": "left",
+        "background": "white",
+        "text": "",
+        "layout_height": "wrap_content",
+        "layout_width": "match_parent",
+        "unify_layout_width": "match_parent",
+        "unify_layout_height": "60",
+        "placeHolderText": "Confirm PIN code",
+        "secureText": true,
+        "leftToLeftOf": "kJL2nnoT3F6w27oaBsItU",
+        "rightToRightOf": "kJL2nnoT3F6w27oaBsItU",
+        "topToBottomOf": "V3Ebm9nfouIOvlkWhsV1R",
+        "layout_marginLeft": 24,
+        "layout_marginRight": 24,
+        "layout_marginTop": 24,
+        "lineColor": "#E7F0F7",
+        "activeLineColor": "#004986",
+        "placeHolderTextColor": "#838383",
+        "numberOfLines": 16
+      }
+    },
+    "icon": "CiText",
+    "group": "Form",
+    "type": "MATERIALTEXTFEILDFILLED",
+    "updatedAt": "23-Aug-2021",
+    "createdAt": "23-Aug-2021",
+    "order": 20,
+    "version": "1.0.0",
+    "isLatest": true,
+    "projectType": "mobile",
+    "component": {
+      "content": "Material Textfeild",
+      "type": "MATERIALTEXTFEILDFILLED"
+    },
+    "events": [],
+    "path": "0-8",
     "edit": true,
     "subType": "component",
     "projectId": "656ebe0598e9df55f0497ba6",

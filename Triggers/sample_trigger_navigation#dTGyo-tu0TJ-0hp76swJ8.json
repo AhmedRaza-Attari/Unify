@@ -1,0 +1,24 @@
+{
+  "id": "R3jldZ5K2QNqcAxoYqj-B",
+  "name": "sample_trigger_navigation",
+  "projectId": "656ebe0598e9df55f0497ba6",
+  "services": [
+    {
+      "type": "NAVIGATION",
+      "command": {
+        "type": "1",
+        "attributes": {
+          "serviceName": "Navigate",
+          "id": "5LgNuYajfY-U130kjXgyy"
+        }
+      }
+    }
+  ],
+  "gitBranchName": "master",
+  "csrf": "0.mhhzay4dyxZ3gJ8TnpOjiTH88WKTyOS",
+  "_id": "dTGyo-tu0TJ-0hp76swJ8",
+  "updatedAt": "12/18/2023",
+  "createdAt": "12/18/2023",
+  "createdBy": "ahmedraza",
+  "updatedBy": "ahmedraza"
+}
