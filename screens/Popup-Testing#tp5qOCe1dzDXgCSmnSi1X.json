@@ -60,11 +60,10 @@
             "background": "#FFFFFF",
             "unify_layout_width": "match_parent",
             "unify_layout_height": "454",
-            "leftToLeftOf": "tp5qOCe1dzDXgCSmnSi1X",
-            "rightToRightOf": "tp5qOCe1dzDXgCSmnSi1X",
             "layout_marginLeft": 24,
             "layout_marginRight": 24,
-            "centerY": "tp5qOCe1dzDXgCSmnSi1X"
+            "centerY": "tp5qOCe1dzDXgCSmnSi1X",
+            "centerX": "tp5qOCe1dzDXgCSmnSi1X"
           }
         },
         "icon": "FaTabletAlt",
@@ -146,7 +145,7 @@
             "layout_width": "wrap_content",
             "layout_height": "wrap_content",
             "textColor": "#000000",
-            "text": "Generate new PIN code?",
+            "text": "Testing new PIN code?",
             "cornerRadius": [0, 0, 0, 0],
             "unify_layout_width": "wrap_content",
             "unify_layout_height": "50",
@@ -338,12 +337,13 @@
             "unify_layout_width": "151",
             "unify_layout_height": "56",
             "bottomToBottomOf": "H53jt-b3Re3sIxkHcVQC6",
-            "layout_marginLeft": 0,
+            "layout_marginLeft": 32,
             "layout_marginBottom": 32,
             "width_percent": 40,
-            "rightToRightOf": "tp5qOCe1dzDXgCSmnSi1X",
+            "rightToRightOf": "",
             "paddingStart": 0,
-            "layout_marginRight": 32
+            "layout_marginRight": 0,
+            "leftToLeftOf": "tp5qOCe1dzDXgCSmnSi1X"
           }
         },
         "icon": "FaBimobject",
@@ -381,11 +381,12 @@
             "unify_layout_width": "151",
             "unify_layout_height": "56",
             "bottomToBottomOf": "H53jt-b3Re3sIxkHcVQC6",
-            "layout_marginRight": 0,
+            "layout_marginRight": 32,
             "layout_marginBottom": 32,
-            "leftToLeftOf": "tp5qOCe1dzDXgCSmnSi1X",
+            "leftToLeftOf": "",
             "width_percent": 40,
-            "layout_marginLeft": 32
+            "layout_marginLeft": 0,
+            "rightToRightOf": "tp5qOCe1dzDXgCSmnSi1X"
           }
         },
         "icon": "FaBimobject",
@@ -405,6 +406,11 @@
     ],
     "subType": "screen",
     "edit": true,
+    "projectId": "656ebe0598e9df55f0497ba6",
+    "gitBranchName": "master",
+    "createdBy": "ahmedraza",
+    "updatedTimestamp": "0000-00-00T00:00:00+00:00",
+    "updatedBy": "ahmedraza",
     "layout": [
       {
         "id": "tp5qOCe1dzDXgCSmnSi1X",
@@ -457,11 +463,10 @@
                 "background": "#FFFFFF",
                 "unify_layout_width": "match_parent",
                 "unify_layout_height": "454",
-                "leftToLeftOf": "tp5qOCe1dzDXgCSmnSi1X",
-                "rightToRightOf": "tp5qOCe1dzDXgCSmnSi1X",
                 "layout_marginLeft": 24,
                 "layout_marginRight": 24,
-                "centerY": "tp5qOCe1dzDXgCSmnSi1X"
+                "centerY": "tp5qOCe1dzDXgCSmnSi1X",
+                "centerX": "tp5qOCe1dzDXgCSmnSi1X"
               }
             },
             "icon": "FaTabletAlt",
@@ -543,7 +548,7 @@
                 "layout_width": "wrap_content",
                 "layout_height": "wrap_content",
                 "textColor": "#000000",
-                "text": "Generate new PIN code?",
+                "text": "Testing new PIN code?",
                 "cornerRadius": [0, 0, 0, 0],
                 "unify_layout_width": "wrap_content",
                 "unify_layout_height": "50",
@@ -735,12 +740,13 @@
                 "unify_layout_width": "151",
                 "unify_layout_height": "56",
                 "bottomToBottomOf": "H53jt-b3Re3sIxkHcVQC6",
-                "layout_marginLeft": 0,
+                "layout_marginLeft": 32,
                 "layout_marginBottom": 32,
                 "width_percent": 40,
-                "rightToRightOf": "tp5qOCe1dzDXgCSmnSi1X",
+                "rightToRightOf": "",
                 "paddingStart": 0,
-                "layout_marginRight": 32
+                "layout_marginRight": 0,
+                "leftToLeftOf": "tp5qOCe1dzDXgCSmnSi1X"
               }
             },
             "icon": "FaBimobject",
@@ -778,11 +784,12 @@
                 "unify_layout_width": "151",
                 "unify_layout_height": "56",
                 "bottomToBottomOf": "H53jt-b3Re3sIxkHcVQC6",
-                "layout_marginRight": 0,
+                "layout_marginRight": 32,
                 "layout_marginBottom": 32,
-                "leftToLeftOf": "tp5qOCe1dzDXgCSmnSi1X",
+                "leftToLeftOf": "",
                 "width_percent": 40,
-                "layout_marginLeft": 32
+                "layout_marginLeft": 0,
+                "rightToRightOf": "tp5qOCe1dzDXgCSmnSi1X"
               }
             },
             "icon": "FaBimobject",
@@ -810,17 +817,11 @@
         "updatedBy": "ahmedraza"
       }
     ],
-    "projectId": "656ebe0598e9df55f0497ba6",
-    "gitBranchName": "master",
-    "_id": "tp5qOCe1dzDXgCSmnSi1X",
-    "createdBy": "ahmedraza",
-    "updatedTimestamp": "0000-00-00T00:00:00+00:00",
-    "updatedBy": "ahmedraza"
+    "_id": "tp5qOCe1dzDXgCSmnSi1X"
   },
   {
     "id": "H53jt-b3Re3sIxkHcVQC6",
     "status": "ACTIVE",
-    "_id": "61dec691077814a0f374d9f4",
     "name": "VIEW POPUP",
     "attributes": {
       "name": "VIEW POPUP",
@@ -833,11 +834,10 @@
         "background": "#FFFFFF",
         "unify_layout_width": "match_parent",
         "unify_layout_height": "454",
-        "leftToLeftOf": "tp5qOCe1dzDXgCSmnSi1X",
-        "rightToRightOf": "tp5qOCe1dzDXgCSmnSi1X",
         "layout_marginLeft": 24,
         "layout_marginRight": 24,
-        "centerY": "tp5qOCe1dzDXgCSmnSi1X"
+        "centerY": "tp5qOCe1dzDXgCSmnSi1X",
+        "centerX": "tp5qOCe1dzDXgCSmnSi1X"
       }
     },
     "icon": "FaTabletAlt",
@@ -853,15 +853,14 @@
     "events": [],
     "path": "0-0",
     "edit": true,
-    "gitBranchName": "master",
-    "projectId": "656ebe0598e9df55f0497ba6",
     "subType": "component",
+    "projectId": "656ebe0598e9df55f0497ba6",
+    "gitBranchName": "master",
     "updatedTimestamp": "0000-00-00T00:00:00+00:00"
   },
   {
     "id": "-iVjGAwjBtnPd7bnGaeya",
     "status": "ACTIVE",
-    "_id": "61decd8e077814a0f374d9fc",
     "name": "IMAGE Confirmation_prompt",
     "attributes": {
       "name": "IMAGE Confirmation_prompt",
@@ -910,15 +909,14 @@
     "path": "0-1",
     "edit": true,
     "events": [],
-    "gitBranchName": "master",
-    "projectId": "656ebe0598e9df55f0497ba6",
     "subType": "component",
+    "projectId": "656ebe0598e9df55f0497ba6",
+    "gitBranchName": "master",
     "updatedTimestamp": "0000-00-00T00:00:00+00:00"
   },
   {
     "id": "F64EMie3Uhl73jUeOaFUi",
     "status": "ACTIVE",
-    "_id": "61dec5ad077814a0f374d9f3",
     "name": "TEXT Generate_pin_code",
     "attributes": {
       "name": "TEXT Generate_pin_code",
@@ -927,7 +925,7 @@
         "layout_width": "wrap_content",
         "layout_height": "wrap_content",
         "textColor": "#000000",
-        "text": "Generate new PIN code?",
+        "text": "Testing new PIN code?",
         "cornerRadius": [0, 0, 0, 0],
         "unify_layout_width": "wrap_content",
         "unify_layout_height": "50",
@@ -951,15 +949,14 @@
     "events": [],
     "path": "0-2",
     "edit": true,
-    "gitBranchName": "master",
-    "projectId": "656ebe0598e9df55f0497ba6",
     "subType": "component",
+    "projectId": "656ebe0598e9df55f0497ba6",
+    "gitBranchName": "master",
     "updatedTimestamp": "0000-00-00T00:00:00+00:00"
   },
   {
     "id": "bO2vClR3jlfpCMoBD9-VO",
     "status": "ACTIVE",
-    "_id": "61dec5ad077814a0f374d9f3",
     "name": "TEXT Your_existing_pin",
     "attributes": {
       "name": "TEXT Your_existing_pin",
@@ -991,15 +988,14 @@
     "component": { "content": "Text view", "type": "TEXTVIEW" },
     "events": [],
     "path": "0-3",
-    "gitBranchName": "master",
-    "projectId": "656ebe0598e9df55f0497ba6",
     "subType": "component",
+    "projectId": "656ebe0598e9df55f0497ba6",
+    "gitBranchName": "master",
     "updatedTimestamp": "0000-00-00T00:00:00+00:00"
   },
   {
     "id": "7dSnO1bSuTOcwQ64BE8Cb",
     "status": "ACTIVE",
-    "_id": "61dec691077814a0f374d9f4",
     "name": "BAR",
     "attributes": {
       "name": "BAR",
@@ -1031,15 +1027,14 @@
     "component": { "content": "View", "type": "VIEW" },
     "events": [],
     "path": "0-4",
-    "gitBranchName": "master",
-    "projectId": "656ebe0598e9df55f0497ba6",
     "subType": "component",
+    "projectId": "656ebe0598e9df55f0497ba6",
+    "gitBranchName": "master",
     "updatedTimestamp": "0000-00-00T00:00:00+00:00"
   },
   {
     "id": "Vz3aX5043lcqXG0lQPO0x",
     "status": "ACTIVE",
-    "_id": "61dec5ad077814a0f374d9f3",
     "name": "TEXT Service_fee",
     "attributes": {
       "name": "TEXT Service_fee",
@@ -1073,15 +1068,14 @@
     "events": [],
     "path": "0-5",
     "edit": true,
-    "gitBranchName": "master",
-    "projectId": "656ebe0598e9df55f0497ba6",
     "subType": "component",
+    "projectId": "656ebe0598e9df55f0497ba6",
+    "gitBranchName": "master",
     "updatedTimestamp": "0000-00-00T00:00:00+00:00"
   },
   {
     "id": "nJIGCe1FwIfymDn3-3P5Y",
     "status": "ACTIVE",
-    "_id": "61dec5ad077814a0f374d9f3",
     "name": "TEXT BHD_0.550",
     "attributes": {
       "name": "TEXT BHD_0.550",
@@ -1113,15 +1107,14 @@
     "events": [],
     "path": "0-6",
     "edit": true,
-    "gitBranchName": "master",
-    "projectId": "656ebe0598e9df55f0497ba6",
     "subType": "component",
+    "projectId": "656ebe0598e9df55f0497ba6",
+    "gitBranchName": "master",
     "updatedTimestamp": "0000-00-00T00:00:00+00:00"
   },
   {
     "id": "VdsWfFvS8zB_iqx_82ILw",
     "status": "ACTIVE",
-    "_id": "61dec753077814a0f374d9f6",
     "name": "BUTTON CANCEL",
     "attributes": {
       "name": "BUTTON CANCEL",
@@ -1139,12 +1132,13 @@
         "unify_layout_width": "151",
         "unify_layout_height": "56",
         "bottomToBottomOf": "H53jt-b3Re3sIxkHcVQC6",
-        "layout_marginLeft": 0,
+        "layout_marginLeft": 32,
         "layout_marginBottom": 32,
         "width_percent": 40,
-        "rightToRightOf": "tp5qOCe1dzDXgCSmnSi1X",
+        "rightToRightOf": "",
         "paddingStart": 0,
-        "layout_marginRight": 32
+        "layout_marginRight": 0,
+        "leftToLeftOf": "tp5qOCe1dzDXgCSmnSi1X"
       }
     },
     "icon": "FaBimobject",
@@ -1160,15 +1154,14 @@
     "events": [],
     "path": "0-7",
     "edit": true,
-    "gitBranchName": "master",
-    "projectId": "656ebe0598e9df55f0497ba6",
     "subType": "component",
+    "projectId": "656ebe0598e9df55f0497ba6",
+    "gitBranchName": "master",
     "updatedTimestamp": "0000-00-00T00:00:00+00:00"
   },
   {
     "id": "ZAnO8MtEfNlCNCitrPbE8",
     "status": "ACTIVE",
-    "_id": "61dec753077814a0f374d9f6",
     "name": "BUTTON  Proceed",
     "attributes": {
       "name": "BUTTON  Proceed",
@@ -1186,11 +1179,12 @@
         "unify_layout_width": "151",
         "unify_layout_height": "56",
         "bottomToBottomOf": "H53jt-b3Re3sIxkHcVQC6",
-        "layout_marginRight": 0,
+        "layout_marginRight": 32,
         "layout_marginBottom": 32,
-        "leftToLeftOf": "tp5qOCe1dzDXgCSmnSi1X",
+        "leftToLeftOf": "",
         "width_percent": 40,
-        "layout_marginLeft": 32
+        "layout_marginLeft": 0,
+        "rightToRightOf": "tp5qOCe1dzDXgCSmnSi1X"
       }
     },
     "icon": "FaBimobject",
@@ -1206,9 +1200,9 @@
     "events": [],
     "path": "0-8",
     "edit": true,
-    "gitBranchName": "master",
-    "projectId": "656ebe0598e9df55f0497ba6",
     "subType": "component",
+    "projectId": "656ebe0598e9df55f0497ba6",
+    "gitBranchName": "master",
     "updatedTimestamp": "0000-00-00T00:00:00+00:00"
   }
 ]

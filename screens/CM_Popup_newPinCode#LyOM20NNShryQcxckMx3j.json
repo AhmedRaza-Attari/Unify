@@ -332,18 +332,19 @@
             "textColor": "#004986",
             "textStyle": "bold",
             "textAlignment": "center",
-            "cornerRadius": [28, 28, 28, 28],
+            "cornerRadius": [32, 32, 32, 32],
             "background": "#E7F0F7",
             "clickable": true,
             "unify_layout_width": "151",
             "unify_layout_height": "56",
             "bottomToBottomOf": "4OgipOy8VW2jwSPjg880u",
-            "layout_marginLeft": 0,
+            "layout_marginLeft": 32,
             "layout_marginBottom": 32,
             "width_percent": 40,
-            "rightToRightOf": "LyOM20NNShryQcxckMx3j",
+            "rightToRightOf": "",
             "paddingStart": 0,
-            "layout_marginRight": 32
+            "layout_marginRight": 0,
+            "leftToLeftOf": "LyOM20NNShryQcxckMx3j"
           }
         },
         "icon": "FaBimobject",
@@ -381,11 +382,12 @@
             "unify_layout_width": "151",
             "unify_layout_height": "56",
             "bottomToBottomOf": "4OgipOy8VW2jwSPjg880u",
-            "layout_marginRight": 0,
+            "layout_marginRight": 32,
             "layout_marginBottom": 32,
-            "leftToLeftOf": "LyOM20NNShryQcxckMx3j",
+            "leftToLeftOf": "",
             "width_percent": 40,
-            "layout_marginLeft": 32
+            "layout_marginLeft": 0,
+            "rightToRightOf": "LyOM20NNShryQcxckMx3j"
           }
         },
         "icon": "FaBimobject",
@@ -729,18 +731,19 @@
                 "textColor": "#004986",
                 "textStyle": "bold",
                 "textAlignment": "center",
-                "cornerRadius": [28, 28, 28, 28],
+                "cornerRadius": [32, 32, 32, 32],
                 "background": "#E7F0F7",
                 "clickable": true,
                 "unify_layout_width": "151",
                 "unify_layout_height": "56",
                 "bottomToBottomOf": "4OgipOy8VW2jwSPjg880u",
-                "layout_marginLeft": 0,
+                "layout_marginLeft": 32,
                 "layout_marginBottom": 32,
                 "width_percent": 40,
-                "rightToRightOf": "LyOM20NNShryQcxckMx3j",
+                "rightToRightOf": "",
                 "paddingStart": 0,
-                "layout_marginRight": 32
+                "layout_marginRight": 0,
+                "leftToLeftOf": "LyOM20NNShryQcxckMx3j"
               }
             },
             "icon": "FaBimobject",
@@ -778,11 +781,12 @@
                 "unify_layout_width": "151",
                 "unify_layout_height": "56",
                 "bottomToBottomOf": "4OgipOy8VW2jwSPjg880u",
-                "layout_marginRight": 0,
+                "layout_marginRight": 32,
                 "layout_marginBottom": 32,
-                "leftToLeftOf": "LyOM20NNShryQcxckMx3j",
+                "leftToLeftOf": "",
                 "width_percent": 40,
-                "layout_marginLeft": 32
+                "layout_marginLeft": 0,
+                "rightToRightOf": "LyOM20NNShryQcxckMx3j"
               }
             },
             "icon": "FaBimobject",
@@ -1118,18 +1122,19 @@
         "textColor": "#004986",
         "textStyle": "bold",
         "textAlignment": "center",
-        "cornerRadius": [28, 28, 28, 28],
+        "cornerRadius": [32, 32, 32, 32],
         "background": "#E7F0F7",
         "clickable": true,
         "unify_layout_width": "151",
         "unify_layout_height": "56",
         "bottomToBottomOf": "4OgipOy8VW2jwSPjg880u",
-        "layout_marginLeft": 0,
+        "layout_marginLeft": 32,
         "layout_marginBottom": 32,
         "width_percent": 40,
-        "rightToRightOf": "LyOM20NNShryQcxckMx3j",
+        "rightToRightOf": "",
         "paddingStart": 0,
-        "layout_marginRight": 32
+        "layout_marginRight": 0,
+        "leftToLeftOf": "LyOM20NNShryQcxckMx3j"
       }
     },
     "icon": "FaBimobject",
@@ -1170,11 +1175,12 @@
         "unify_layout_width": "151",
         "unify_layout_height": "56",
         "bottomToBottomOf": "4OgipOy8VW2jwSPjg880u",
-        "layout_marginRight": 0,
+        "layout_marginRight": 32,
         "layout_marginBottom": 32,
-        "leftToLeftOf": "LyOM20NNShryQcxckMx3j",
+        "leftToLeftOf": "",
         "width_percent": 40,
-        "layout_marginLeft": 32
+        "layout_marginLeft": 0,
+        "rightToRightOf": "LyOM20NNShryQcxckMx3j"
       }
     },
     "icon": "FaBimobject",
